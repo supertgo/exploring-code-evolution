@@ -81,9 +81,13 @@ Seja criativo!
 
 Responda às questões abaixo diretamente neste arquivo `README.md` do seu fork:
 
-1. Repositório selecionado: <URL_DO_REPOSITORIO_SELECIONADO_AQUI>
-2. Gráfico selecionado: <IMAGEM_DO_GRAFICO_SELECIONADO_AQUI>
-3. Explicação: <EXPLICACAO_AQUI>
+1. Repositório selecionado: https://github.com/angular/angular
+2. Gráfico selecionado: 
+<img width="640" height="343" alt="image" src="https://github.com/user-attachments/assets/4f5a54b5-00dc-4a89-8f82-a265f610ef82" />
 
 
+3. Explicação:
 
+Tenho trabalhado com o Angular nos últimos anos e acompanhado suas atualizações de versão. Apesar de já ter explorado partes do código-fonte em alguns momentos, eu nunca tinha uma visão mais ampla da sua evolução ao longo do tempo. Por isso, escolhi o gráfico que mostra a quantidade de arquivos TypeScript no repositório, buscando entender melhor a dinâmica interna do framework.
+
+O que mais me chamou a atenção foi a redução significativa de aproximadamente 1200 arquivos de 2024 para 2025. Não encontrei uma mudança isolada que justificasse esse resultado, mas acredito que ele esteja relacionado a esforços contínuos da comunidade em simplificar a base de código, remover duplicidades, consolidar funcionalidades e modernizar a arquitetura. Essa redução torna o desenvolvimento com o framework mais eficiente Uma observação é que a métrica `LOC / file` aumentou, mas boa parte deve vir da redução de arquivos.
